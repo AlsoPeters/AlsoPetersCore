@@ -1,0 +1,10 @@
+## Interface: 404000
+## Title: |c007EBFF1AlsoPeters Core
+## RequiredDeps: WeakAuras
+## Version: 1.0
+## Author: AlsoPeters
+
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+init.lua
+AlsoPetersMedia.lua
